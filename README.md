@@ -7,8 +7,11 @@ Our network model consists of an recurrent neural network designed to process th
 To apply the RNN architecture to our dataset, we treated our problem as a case of sequence-to-sequence prediction. 
 * Each feature/attribute category had its labels transformed into one-hot encoded vectors, which served as our sequenced target labels in for our RNN. 
 * The contents of the title feature were tokenized and treated as our sequenced inputs. 
-* Our network was then trained on each of the three datasets, before producing a predicted output sequence from which output features could be extracted. 
+* Our network was then trained on each of the three datasets, before producing a predicted output sequence from which output feature/attribute categories could be extracted. 
 * Undefined NaN labels were encoded as “defaults” during training and prediction, before being restored in post-processing
+
+Team DataKrafters:
+
 Liu Peng
 Yijie Xu
 Shaun Tan
