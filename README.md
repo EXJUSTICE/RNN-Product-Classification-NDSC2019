@@ -10,7 +10,7 @@ To apply the RNN architecture to our dataset, we treated our problem as a case o
 * Our network was then trained on each of the three datasets, before producing a predicted output sequence from which output feature/attribute categories could be extracted. 
 * Undefined NaN labels were encoded as “defaults” during training and prediction, before being restored in post-processing
 
-Team DataKrafters:
+Team Datakrafters:
 
 Liu Peng<br/>
 Yijie Xu<br/>
