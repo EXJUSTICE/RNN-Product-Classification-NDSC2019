@@ -13,6 +13,6 @@ To apply the RNN architecture to our dataset, we treated our problem as a case o
 Team DataKrafters:
 
 Liu Peng
-Yijie Xu
+\n  Yijie Xu
 Shaun Tan
 Krupa Malik
