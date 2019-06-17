@@ -17,4 +17,6 @@ Yijie Xu<br/>
 Shaun Tan<br/>
 Krupa Malik<br/>
 
-Full tutorial here: https://medium.com/gradientcrescent/applying-sentiment-analysis-to-e-commerce-classification-using-recurrent-neural-networks-in-keras-cd89b77baa60
+## Main Tutorial
+
+https://medium.com/gradientcrescent/applying-sentiment-analysis-to-e-commerce-classification-using-recurrent-neural-networks-in-keras-cd89b77baa60
